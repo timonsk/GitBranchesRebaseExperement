@@ -2,7 +2,11 @@ Hello from anothe man.
 Modification @ 1
 Modifacation @ 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 Last final modification for this file
 Modification 3
 =======
 >>>>>>> 28fe04a... Theard modification
+=======
+Last final modification for this file
+>>>>>>> f9e550e... Finalize my changes; 
