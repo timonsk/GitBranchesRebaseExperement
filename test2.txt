@@ -5,8 +5,11 @@ Modifacation @ 2
 <<<<<<< HEAD
 Last final modification for this file
 Modification 3
+<<<<<<< HEAD
 =======
 >>>>>>> 28fe04a... Theard modification
 =======
 Last final modification for this file
 >>>>>>> f9e550e... Finalize my changes; 
+=======
+>>>>>>> 0da8c6b... Modified file 2
