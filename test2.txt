@@ -1,10 +1,12 @@
 Hello from anothe man.
 Modification @ 1
+<<<<<<< HEAD
 Modifacation @ 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 Last final modification for this file
 Modification 3
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> 28fe04a... Theard modification
@@ -13,3 +15,7 @@ Last final modification for this file
 >>>>>>> f9e550e... Finalize my changes; 
 =======
 >>>>>>> 0da8c6b... Modified file 2
+=======
+=======
+>>>>>>> b5986ce... Second commit with some modifications;
+>>>>>>> 934374e... no message
