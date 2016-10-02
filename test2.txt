@@ -1,5 +1,8 @@
 Hello from anothe man.
 Modification @ 1
+<<<<<<< HEAD
 Modifacation @ 2
 Last final modification for this file
 Modification 3
+=======
+>>>>>>> b5986ce... Second commit with some modifications;
