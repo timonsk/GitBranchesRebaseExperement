@@ -1,3 +1,7 @@
 Hello 1
+<<<<<<< HEAD
 Modification 1
 Modification 2
+=======
+Modificatio 1
+>>>>>>> 68a7074... Changed test 1 file
