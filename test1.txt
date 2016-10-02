@@ -2,6 +2,7 @@ Hello 1
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c1380f6... 1
 Modification 1
@@ -16,3 +17,7 @@ Modification 2
 >>>>>>> 5e927a2... Changed fiel @ 1
 =======
 >>>>>>> c1380f6... 1
+=======
+Modification 1
+Modification 2
+>>>>>>> 3dff19a... first
