@@ -3,6 +3,7 @@ Hello 1
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c1380f6... 1
 Modification 1
@@ -21,3 +22,7 @@ Modification 2
 Modification 1
 Modification 2
 >>>>>>> 3dff19a... first
+=======
+Modification 1
+Modification 2
+>>>>>>> 1300848... 2
