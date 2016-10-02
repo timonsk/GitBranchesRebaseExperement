@@ -1,12 +1,18 @@
 Hello 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c1380f6... 1
 Modification 1
 Modification 2
 =======
 Modificatio 1
 >>>>>>> 68a7074... Changed test 1 file
+<<<<<<< HEAD
 =======
 Modification 1
 Modification 2
 >>>>>>> 5e927a2... Changed fiel @ 1
+=======
+>>>>>>> c1380f6... 1
