@@ -1,9 +1,2 @@
 Hello from anothe man.
 Modification @ 1
-<<<<<<< HEAD
-Modification @ 2
-=======
-Modifacation @ 2
-Last final modification for this file
-Modification 3
->>>>>>> 0da8c6b... Modified file 2
