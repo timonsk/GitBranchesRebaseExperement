@@ -1,6 +1,7 @@
 Hello from anothe man.
 Modification @ 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Modifacation @ 2
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19,3 +20,6 @@ Last final modification for this file
 =======
 >>>>>>> b5986ce... Second commit with some modifications;
 >>>>>>> 934374e... no message
+=======
+Modification @ 2
+>>>>>>> 353412e... # This is a combination of 2 commits.
